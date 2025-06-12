@@ -51,3 +51,27 @@ Reinforcement learning and LLM-powered applications
 
 [Week 3 Quiz](https://github.com/DrPriya27/GenAI-Primer/tree/main/Week-3/Week-3_Quiz.md)
 
+## Week 4
+RAG in production
+
+
+### Best GitHub repos
+
+1️⃣ 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗥𝗔𝗚 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 
+🔗 https://lnkd.in/dD4S8Cq2
+Deep dive into chunking, hybrid search, reranking, and evaluation frameworks - perfect for mastering practical RAG workflows 
+
+2️⃣ 𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗥𝗔𝗚 𝗖𝗼𝗼𝗸𝗯𝗼𝗼𝗸𝘀 
+🔗 https://lnkd.in/dBP5PScg
+End‑to‑end agentic examples with tools, memory, and thorough evaluation steps. Actionable and hands‑on.
+
+3️⃣ 𝗔𝗹𝗹 𝗥𝗔𝗚 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 
+🔗 https://lnkd.in/dVg4rbue
+A concise reference hub - code-first, framework-free cheat sheet of 20+ techniques implemented from scratch
+
+4️⃣ 𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗟𝗟𝗠𝘀 𝘄𝗶𝘁𝗵 𝗥𝗔𝗚 
+🔗 https://lnkd.in/dYrGaV7d
+Well‑structured notebooks offering conceptual clarity and production‑ready code - ideal for putting theory into practice
+
+
+
