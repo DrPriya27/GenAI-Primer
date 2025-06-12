@@ -55,7 +55,9 @@ Reinforcement learning and LLM-powered applications
 RAG in production
 
 
-### Best GitHub repos
+
+
+### Best GitHub repo and other resources
 
 1️⃣ 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗥𝗔𝗚 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 
 🔗 https://lnkd.in/dD4S8Cq2
@@ -73,5 +75,6 @@ A concise reference hub - code-first, framework-free cheat sheet of 20+ techniqu
 🔗 https://lnkd.in/dYrGaV7d
 Well‑structured notebooks offering conceptual clarity and production‑ready code - ideal for putting theory into practice
 
-
+5️⃣Gen AI for begineers 
+🔗 https://github.com/microsoft/generative-ai-for-beginners
 
