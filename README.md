@@ -79,3 +79,6 @@ Well‑structured notebooks offering conceptual clarity and production‑ready c
 🔗 https://github.com/microsoft/generative-ai-for-beginners
 
 https://www.linkedin.com/feed/update/urn:li:activity:7335132515696869377/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7335132515696869377%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+
+https://www.linkedin.com/posts/aishwarya-srinivasan_if-you-want-to-get-started-in-learning-about-activity-7304507194882875392-hYs_/?utm_source=share&utm_medium=member_android&rcm=ACoAAAe8D0cBW3NxXQaB93SNhHswReYjboBh_2k
